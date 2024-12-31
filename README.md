@@ -7,13 +7,13 @@ https://www.scilab.org/surface-fitting
 Or we can observe how the  surface fitting works with an app:
 https://www.originlab.com/fileExchange/details.aspx?fid=282
 
-Any face can be described by the polynomial formula:
+Typically, a smooth surface can be described using a polynomial formula:
 
 <p align="center">
 <img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/formula.jpg width="600" >
 <b>
 
-The typical applications of polynomial techniques include: 
+The common applications of polynomial techniques include: 
   
 * Noise Reduction: Fit a polynomial to noisy data and use it as a smoothed representation.
   
