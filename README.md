@@ -16,8 +16,7 @@ Any face can be described by the polynomial formula:
 <p align="center">
 <img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/formula.jpg width="600" >
 <b>
-&nbsp;<br>
-&nbsp;<br>
+
 The typical applications of polynomial techniques include: 
   
 * Noise Reduction: Fit a polynomial to noisy data and use it as a smoothed representation.
