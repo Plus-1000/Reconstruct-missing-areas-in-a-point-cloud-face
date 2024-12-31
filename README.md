@@ -1,7 +1,18 @@
-# Using-polynomial-fitting-to-fill-in-missing-areas-of-the-point-cloud-1
+# Use polynomial fitting to reconstruct missing areas in a point cloud face, with ChatGPT coding assistance.
 
-# "Point-cloud-interpolation"
-Try projecting the point onto the face (which consists of points in a .csv file) along the face normal or a fixed vector, or find the closest point from pt_cloud
+## About "polynomial fitting"
+Please refer to this link for how to build a formula from points:
+
+<br>
+https://www.scilab.org/surface-fitting
+
+
+Or we can observe how the  surface fitting works with an app:
+<br> 
+https://www.originlab.com/fileExchange/details.aspx?fid=282
+
+Any face can be described by the polynomial formula:
+
 
 <p align="center">
 <img src=https://github.com/Plus-1000/Point-cloud-interpolation/blob/main/pic/p0.jpg width="600" >
