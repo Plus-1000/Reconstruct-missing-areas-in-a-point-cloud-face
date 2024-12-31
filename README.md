@@ -40,6 +40,7 @@ This is the original surface:
 <img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/ori_face_0.jpg width="600" >
 <b>
 &nbsp;<br>
+Points set A, point set B ( noisy added) and target point set after fitting.
 <p align="center">
 <img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/fine_error.jpg width="600" >
 <b>
