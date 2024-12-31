@@ -36,7 +36,14 @@ We designed a 3D face and generated a "point set A" from it, with some points in
 
 This is the original surface:
 
-
+<p align="center">
+<img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/ori_face_0.jpg width="600" >
+<b>
+&nbsp;<br>
+<p align="center">
+<img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/fine_error_copy.jpg width="600" >
+<b>
+&nbsp;<br>
 
 
 
