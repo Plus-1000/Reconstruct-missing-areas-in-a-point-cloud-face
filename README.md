@@ -96,11 +96,11 @@ The distance from the missing pt to the ori face is 0.117 mm.
 <img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/noisy_9%20degree%20fitting.JPG width="600" >
 <b>
 
-The distance from the missing pt to the ori face is 0.122 mm.
 <p align="center">
 <img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/noisy_dist.jpg width="600" >
 <b>
 
+The distance from the missing pt to the ori face is 0.122 mm.
 Polynomial fitting has its limitations; it is not practical for a normal PC to handling complex or non-continuous surfaces, and high-degree fitting calculations may take a long time.
 
 *Wang Jian, 2024 Dec 27, wjian88@gmail.com*
