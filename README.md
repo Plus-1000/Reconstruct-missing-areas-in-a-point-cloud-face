@@ -18,6 +18,29 @@ Any face can be described by the polynomial formula:
 <b>
 &nbsp;<br>
 &nbsp;<br>
+The typical applications of polynomial techniques include: 
+* Noise Reduction: Fit a polynomial to noisy data and use it as a smoothed representation.
+  
+* Interpolation: Estimate values at unknown points within the domain of the data.
+  
+* Surface Approximation: Model complex surfaces like terrain, curved structures, or fluid flow.
+
+* Feature Extraction: Analyze curvature or other geometric properties of the surface.
+
+In this test, we aim to retrieve the missing points from the point cloud face stored in a CSV file.
+
+## 1) About the test: 
+We designed a 3D face and generated a "point set A" from it, with some points in the central area intentionally missing.
+
+"point set B" was created in a similar way, but with random positioning errors added in the x, y, and z directions, ranging from ±0.1 to ±0.3.
+
+This is the original surface:
+
+
+
+
+
+
  
 ## Point interpolation along pt_cloud face normal
 Suppose we have a point near pt_cloud, this method tries to project the point on the "face" of the point cloud along the face normal
