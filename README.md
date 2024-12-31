@@ -39,14 +39,11 @@ This is the original surface:
 <p align="center">
 <img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/ori_face_0.jpg width="600" >
 <b>
-&nbsp;<br>
-  
+
 Points set A, point set B (noise added), and target point set after fitting.
 <p align="center">
 <img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/fine_error.jpg width="600" >
 <b>
-&nbsp;<br>
-
 
 ## 2) How ChatGPT can help in coding: 
 The advice from ZD.net for the advantages and disadvantages of coding with ChatGPT : 
@@ -57,7 +54,6 @@ Now we try to ask ChatGPT: "*Apply a polynomial algorithm to generate a 3D face 
 
 Then we can receive the reply on the PC screen: 
 
-<span style="color: grey;"> 
 To apply a polynomial algorithm to generate a 3D face from a point cloud provided in a CSV format, we can follow these steps:
 
 
@@ -80,8 +76,6 @@ x and y coordinates.
 <p align="center">
 <img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/GPT%20codes%202.jpg width="600" >
 <b>
-&nbsp;<br>
-
 
 You can test or modify the code as needed; the file Polynomial_fit.py contains the complete implementation.
 
@@ -91,36 +85,26 @@ You can test or modify the code as needed; the file Polynomial_fit.py contains t
 <p align="center">
 <img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/ori_9%20degree%20fitting.JPG width="600" >
 <b>
-&nbsp;<br>
-
 
 Export new pts to SIEMENS NX CADCAM interface, check the distance from missing pts to original face: 
 <p align="center">
 <img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/ori_dist.JPG width="600" >
 <b>
-&nbsp;<br>
-
 
 3.2) Fitting points cloud with noisy (point set A), 9-degree fitting also. 
 <p align="center">
 <img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/noisy_9%20degree%20fitting.JPG width="600" >
 <b>
-&nbsp;<br>
-
 
 The distance from the missing pt to the ori face is 0.122 mm.
 <p align="center">
 <img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/noisy_dist.jpg width="600" >
 <b>
-&nbsp;<br>
-
-</span>
 
 Polynomial fitting has its limitations; it is not practical for a normal PC to handling complex or non-continuous surfaces, and high-degree fitting calculations may take a long time.
 
 *Wang Jian, 2024 Dec 27, wjian88@gmail.com*
 
-</span>
 
 
 
