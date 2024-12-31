@@ -89,7 +89,7 @@ You can test or modify the code as needed; the file Polynomial_fit.py contains t
 3.1) Fitting original points cloud (point set A), 9-degree fitting takes 17 seconds. 
 
 <p align="center">
-<img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/ori_9 degree fitting.JPG width="600" >
+<img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/ori_9%20degree%20fitting.JPG width="600" >
 <b>
 &nbsp;<br>
 
