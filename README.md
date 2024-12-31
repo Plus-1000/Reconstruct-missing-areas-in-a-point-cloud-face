@@ -14,6 +14,15 @@ https://www.originlab.com/fileExchange/details.aspx?fid=282
 Any face can be described by the polynomial formula:
 
 <p align="center">
+<img src=https://github.com/Plus-1000/Point-cloud-interpolation/blob/main/pic/p1.jpg width="600" >
+<b>
+&nbsp;<br>
+&nbsp;<be
+       
+       >
+
+
+<p align="center">
 <img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/formula.jpg, width="600" >
 <b>
 &nbsp;<br>
