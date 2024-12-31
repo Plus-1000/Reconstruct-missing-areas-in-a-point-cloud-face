@@ -113,7 +113,7 @@ The distance from the missing pt to the ori face is 0.122 mm.
 * Poor Extrapolation: It doesn’t work well outside the data range.
 * Sensitive to Outliers: Small changes in data can affect the entire curve.
 * Limited for Complex Shapes: One polynomial may not fit surfaces with varying curves.
-  
+<br>
 
 *Wang Jian, 2024 Dec 27, wjian88@gmail.com*
 
