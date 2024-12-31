@@ -115,7 +115,7 @@ The distance from the missing pt to the ori face is 0.122 mm.
 * Limited for Complex Shapes: One polynomial may not fit surfaces with varying curves.
 <br>
 
-*Wang Jian, 2024 Dec 27, wjian88@gmail.com*
+*Wang Jian, 2024 Dec 27,  wjian88@gmail.com*
 
 
 
