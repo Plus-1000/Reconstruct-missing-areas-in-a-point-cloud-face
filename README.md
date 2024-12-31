@@ -41,7 +41,7 @@ This is the original surface:
 <b>
 &nbsp;<br>
 <p align="center">
-<img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/fine_error_copy.jpg width="600" >
+<img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/fine_error_Copy.jpg width="600" >
 <b>
 &nbsp;<br>
 
