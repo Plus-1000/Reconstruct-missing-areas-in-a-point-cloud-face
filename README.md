@@ -1,4 +1,4 @@
-# Use polynomial fitting to reconstruct missing areas in a point cloud face, with ChatGPT coding assistance.
+# Use polynomial fitting to reconstruct missing areas in a point cloud face with coding assistance from ChatGPT
 
 ## About "polynomial fitting"
 Please refer to this link for how to build a formula from points:
