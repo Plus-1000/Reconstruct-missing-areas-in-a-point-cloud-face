@@ -89,6 +89,7 @@ Export new pts to SIEMENS NX CADCAM interface, check the distance from missing p
 <img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/ori_dist.JPG width="600" >
 <b>
 The distance from the missing pt to the ori face is 0.117 mm.
+  
 3.2) Fitting points cloud with noisy (point set A), 9-degree fitting also. 
 <p align="center">
 <img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/noisy_9%20degree%20fitting.JPG width="600" >
