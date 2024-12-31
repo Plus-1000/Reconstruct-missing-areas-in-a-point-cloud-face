@@ -2,13 +2,9 @@
 
 ## About "polynomial fitting"
 Please refer to this link for how to build a formula from points:
-
-<br>
 https://www.scilab.org/surface-fitting
-
-
+<br>
 Or we can observe how the  surface fitting works with an app:
-<br> 
 https://www.originlab.com/fileExchange/details.aspx?fid=282
 
 Any face can be described by the polynomial formula:
