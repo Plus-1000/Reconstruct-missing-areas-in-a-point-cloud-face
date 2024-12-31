@@ -103,7 +103,7 @@ The distance from the missing pt to the ori face is 0.117 mm.
 <img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/noisy_dist.jpg width="600" >
 <b>
 <p align="center">
-<img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/noisy_centre_dist.jpg width="600" >
+<img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/noisy_cent_dist.jpg width="600" >
 <b>
 
 The maximum distance from the regenerated missing pt to the ori face is 0.122 mm.
