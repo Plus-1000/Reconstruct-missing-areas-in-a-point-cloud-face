@@ -15,7 +15,7 @@ Any face can be described by the polynomial formula:
 
 
 <p align="center">
-<img src=https://github.com/Plus-1000/Use-polynomial-fitting-to-reconstruct-missing-areas-in-a-point-cloud-face-with-coding-assistance-by/blob/main/pic/formula.jpg) width="600" >
+<img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/formula.jpg, width="600" >
 <b>
 &nbsp;<br>
 &nbsp;<br>
