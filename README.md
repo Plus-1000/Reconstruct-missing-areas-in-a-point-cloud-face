@@ -57,19 +57,20 @@ Then we can receive the reply on the PC screen:
 To apply a polynomial algorithm to generate a 3D face from a point cloud provided in a CSV format, we can follow these steps:
 
 
-_1. Load the Point Cloud: 
+1. Load the Point Cloud: 
     * Read the CSV file containing the point cloud data. Ensure the file has x, y, and z coordinates for each point.
-_2. Fit a Polynomial Surface:
+    * 
+2. Fit a Polynomial Surface:
 
    *  Use polynomial fitting to approximate the surface. For 3D point clouds, we typically fit a 2D polynomial to model 
 z=f(x,y).
-
    *  Choose the degree of the polynomial based on the complexity of the surface.
 
--3. Generate the Surface:
+3. Generate the Surface:
    * Use the fitted polynomial coefficients to create a smooth surface grid over the range of the 
 x and y coordinates.
-_4. Export the Result:
+
+4. Export the Result:
 
    * Save the generated 3D surface points (x, y, z) into a new CSV file.
 
