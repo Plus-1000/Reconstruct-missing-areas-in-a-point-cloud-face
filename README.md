@@ -32,7 +32,7 @@ In this test, we aim to retrieve the missing points from the point cloud face st
 ## 1) About the test: 
 We designed a 3D face and generated a "point set A" from it, with some points in the central area intentionally missing.
 
-"point set B" was created in a similar way, but with random positioning errors added in the x, y, and z directions, ranging from ±0.1 to ±0.3.
+"point set B" was created similarly, but with random positioning errors added in the x, y, and z directions, ranging from ±0.1 to ±0.3.
 
 This is the original surface:
 
@@ -88,16 +88,31 @@ You can test or modify the code as needed; the file Polynomial_fit.py contains t
 ## 3) Check result
 3.1) Fitting original points cloud (point set A), 9-degree fitting takes 17 seconds. 
 
-![Alt text](<9 degree fitting-1.JPG>)
+<p align="center">
+<img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/fine_error.jpg width="600" >
+<b>
+&nbsp;<br>
+
 
 Export new pts to SIEMENS NX CADCAM interface, check the distance from missing pts to original face: 
-![Alt text](dist_ori.JPG)
+<p align="center">
+<img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/fine_error.jpg width="600" >
+<b>
+&nbsp;<br>
+
 
 3.2) Fitting points cloud with noisy (point set A), 9-degree fitting also. 
-![Alt text](<noisy_9 degree fitting.JPG>)
+<p align="center">
+<img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/fine_error.jpg width="600" >
+<b>
+&nbsp;<br>
+
 
 The distance from the missing pt to the ori face is 0.122 mm.
-![Alt text](noisy_dist.jpg)
+<p align="center">
+<img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/fine_error.jpg width="600" >
+<b>
+&nbsp;<br>
 
 </span>
 
