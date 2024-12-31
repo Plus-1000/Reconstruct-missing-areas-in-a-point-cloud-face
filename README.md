@@ -96,7 +96,7 @@ You can test or modify the code as needed; the file Polynomial_fit.py contains t
 
 Export new pts to SIEMENS NX CADCAM interface, check the distance from missing pts to original face: 
 <p align="center">
-<img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/fine_error.jpg width="600" >
+<img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/ori_dist.jpg width="600" >
 <b>
 &nbsp;<br>
 
