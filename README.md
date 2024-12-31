@@ -101,7 +101,8 @@ The distance from the missing pt to the ori face is 0.117 mm.
 <b>
 
 The distance from the missing pt to the ori face is 0.122 mm.
-Polynomial fitting has its limitations; it is not practical for a normal PC to handling complex or non-continuous surfaces, and high-degree fitting calculations may take a long time.
+
+Polynomial fitting has its limitations; it is not practical for a normal PC to handle complex or non-continuous surfaces, and high-degree fitting calculations may take a long time.
 
 *Wang Jian, 2024 Dec 27, wjian88@gmail.com*
 
