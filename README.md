@@ -78,7 +78,7 @@ x and y coordinates.
    * Save the generated 3D surface points (x, y, z) into a new CSV file.
 
 <p align="center">
-<img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/fine_error.jpg width="600" >
+<img src=https://github.com/Plus-1000/Reconstruct-missing-areas-in-a-point-cloud-face/blob/main/pic/GPT%20codes%202.jpg width="600" >
 <b>
 &nbsp;<br>
 
