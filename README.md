@@ -105,7 +105,7 @@ The distance from the missing pt to the ori face is 0.117 mm.
 
 The distance from the missing pt to the ori face is 0.122 mm.
 
-The limitations of polynomial fitting: 
+## 4) The limitations of polynomial fitting: 
 * Overfitting: High-degree polynomials can fit noise instead of the actual data.
 * Oscillations: Higher degrees can cause wavy curves, especially at the edges.
 * Data Issues: Sparse or uneven data can lead to poor fits.
