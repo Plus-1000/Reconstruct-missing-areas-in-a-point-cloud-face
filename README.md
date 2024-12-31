@@ -19,6 +19,7 @@ Any face can be described by the polynomial formula:
 &nbsp;<br>
 &nbsp;<br>
 The typical applications of polynomial techniques include: 
+  
 * Noise Reduction: Fit a polynomial to noisy data and use it as a smoothed representation.
   
 * Interpolation: Estimate values at unknown points within the domain of the data.
